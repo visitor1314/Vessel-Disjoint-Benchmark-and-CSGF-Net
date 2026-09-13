@@ -1,0 +1,3 @@
+**Dataset Split**
+
+This setup is based on three public datasets—DeepShip, OceanShip, and ShipsEar—with the fundamental unit of partitioning being the actual physical identity of the vessels. Each dataset folder contains the corresponding partition files, enabling replication of the split. Additionally, the file `Data split.md` provides statistics on the number of recordings, segments, and vessels.
